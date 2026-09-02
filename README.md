@@ -21,3 +21,5 @@ A RESTful API for managing salons, services, and user authentication.
 - RESTful API endpoints
 
 ## Live Demo
+
+https://assignment-4-salon-management-api-r8sk.onrender.com
